@@ -19,7 +19,7 @@ class CfgMods
 		action = "";
 		hideName = 0;
 		hidePicture = 0;
-		name = "The Hive - Hyerakon - Server Translations";
+		name = "The Hive - Server Translations - Hyerakon";
 		credits = "DayZ Expansion and Hyerakon";
 		author = "Hyerakon - Luigi Francesco Ricatti";
 		authorID = "";
